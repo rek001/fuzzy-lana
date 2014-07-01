@@ -1,10 +1,88 @@
 # 李斌
 ## Linux C/C++开发工程师
 
-> 江西吉安，男，1990年  
-> [travelwithheart@yeah.net](travelwithheart@yeah.net)  
-> (+86) 15846517264
+------
+<table border=0 cellpadding=0>
+<tr>
+<td>
+<table width=688 height=200>
+<tr>
+<td>
+姓名
+</td>
+<td>
+李斌
+</td>
+<td>
+性别
+</td>
+<td>
+男
+</td>
+</tr>
+<tr>
+<td>
+出生日期
+</td>
+<td>
+1990.05
+</td>
+<td>
+学历
+</td>
+<td>
+本科
+</td>
+</tr>
+<tr>
+<td>
+毕业院校
+</td>
+<td>
+南京邮电大学
+</td>
+<td>
+专业
+</td>
+<td>
+信息安全
+</td>
+</tr>
+<tr>
+<td>
+籍贯
+</td>
+<td>
+江西.永丰
+</td>
+<td>
+外语等级
+</td>
+<td>
+CET-6
+</td>
+</tr>
+<tr>
+<td>
+电话
+</td>
+<td>
+(+86) 15846517264
+</td>
+<td>
+邮箱
+</td>
+<td>
+travelwithheart@yeah.net
+</td>
+</tr>
+</table>
+</td>
+<td>
 <img src="xj2014_07_01_09_25_26_mh1404178244847.jpg" alt="shit, Picture dump" title="actually a bit fat, ps by my gf, ^_^" width="150" height="200" />
+</td>
+</tr>
+</table>
 ------
 
 ### 简介 {#profile}
