@@ -2,15 +2,15 @@
 ## Linux C/C++开发工程师
 
 > 江西吉安，男，1990年  
-> [email@example.com](email@example.com)  
-> (+86) 101-2345-6789
-
+> [travelwithheart@yeah.net](travelwithheart@yeah.net)  
+> (+86) 15846517264
+<img src="xj2014_07_01_09_25_26_mh1404178244847.jpg" alt="shit, Picture dump" title="actually a bit fat, ps by my gf, ^_^" width="150" height="200" />
 ------
 
 ### 简介 {#profile}
 
 扎实的Java基础，富有激情与创意。
-![picture](https://github.com/CNprober/fuzzy-lana/blob/master/xj2014_07_01_09_25_26_mh1404178244847.jpg)
+
 
 ------
 
