@@ -1,8 +1,8 @@
-# 李斌
-## Linux C/C++开发工程师
+# 李斌 
+## Linux C/C++开发工程师 ##
 
 ------
-<table border=0 cellpadding=0>
+<table border=0 cellpadding=0 width=888>
 <tr>
 <td>
 <table width=688 height=200>
@@ -83,65 +83,66 @@ travelwithheart@yeah.net
 </td>
 </tr>
 </table>
-------
-
-### 简介 {#profile}
-
-扎实的Java基础，富有激情与创意。
-
 
 ------
 
-### 技能 {#skills}
+### 基本技能 ###
 
-* Android开发
-  : 三年Android开发经验。
+* C/C++开发
+  : 两年C/C++开发经验，熟悉gcc/gdb程序开发调试工具，熟悉Make和CMake项目管理工具。
 
-* 服务器端开发
-  : 一年服务器端开发经验。
+* Linux/Unix系统
+  : 一直工作在Linux/Unix平台，熟悉Linux，熟悉Linux系统编程，熟悉Linux多进程多线程编程。
 
--------
+* 其他语言
+  : 熟悉ShellScript，熟悉awk/sed等文本处理工具；了解Python语言，研究过Python的对象系统。
 
-### 技术 {#technical}
+* 网络开发
+  : 熟悉TCP/IP协议及socket编程，熟悉RTMP，RTP，RTSP等流媒体协议，有相关的开发经验；对网络中间件有一定的了解，用过ICE编程。
 
-1. Android
-1. Java
-1. C
-1. Node.js
-1. MongoDB
-1. Git
-1. Linux
-1. html5 CSS3
-1. JQuery
+* 数据库及编程
+  : 熟悉SQL语言，熟悉Oracle,了解NoSQL。
+
+* 其他
+  : 熟悉Git版本控制工具；扎实的数据结构算法基础；熟悉Markdown语言，热衷开源运动，参与Linux.cn的[LCTT项目][1].
 
 ------
 
-### 工作经验 {#experience}
+### 工作经历 ###
 
-BBB信息技术有限公司
-: *Android高级工程师*
-  __2012年至今__
-  工作详情说明
+* 北京思特奇信息技术股份有限公司（2014年1月至6月）
 
-AAA信息技术有限公司
-: *Android工程师*
-  __2010年至年2012年__
-  工作详情说明
+  主要参与移动OCS系统（在线计费系统）相关的开发和维护工作，开发环境是IBM小型机，AIX6，主要使用语言包括C,C++和ShellScript等。
+
+* 南京超然科技有限公司 (2012年8月至2013年9月)
+
+  主要参与了公司新录播项目RTMP数据源模块的设计和开发，工作中主要接触到的协议有TCP/IP,RTMP,主要工作平台是Redhat/CentOS,主要使用的语言C++。
 
 ------
 
-### 学历 {#degree}
+### 教育经历 ###
 
-学位
-: *学校专业*
-  __2006年至2010年__
-  学位与学校说明
-  
+南京邮电大学
+: *本科*
+  __2009年9月至2013年6月__
+  在校期间参加过全国数模竞赛获江苏省三等奖，江苏省“富士通”杯网页设计竞赛三等奖，考取了全国计算机四级网络工程师，全国软考中级网络工程师证书。
+     
 ------
 
-### Footer {#footer}
+### 自我评价 ###
 
-Github: [https://github.com/username](https://github.com/username)  
-Stack Overflow: [http://stackoverflow.com/users/id/username](http://stackoverflow.com/users/id/username)
+对生活充满激情，追求理想，追求技术，热爱互联网，希望投身互联网行业。扎实的C/C++基础，喜欢创新，喜欢钻研，喜欢学习。思维严谨，有责任心，善于沟通，服从安排，有良好的团队合作精神。
 
 ------
+
+### 项目经历 ###
+
+------
+
+### Footer ###
+
+Github: [https://github.com/CNprober](https://github.com/CNprober)  
+简历在线版: [http://stackoverflow.com/users/id/username](http://stackoverflow.com/users/id/username)
+
+------
+[1]:https://github.com/LCTT/TranslateProject
