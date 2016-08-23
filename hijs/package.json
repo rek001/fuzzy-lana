@@ -1,0 +1,14 @@
+{
+  "name": "hijs",
+  "version": "0.0.2",
+  "description": "'my first node app pub by npm'",
+  "main": "index.js",
+  "bin": {
+    "hijs": "./bin/hijs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rekii",
+  "license": "ISC"
+}
